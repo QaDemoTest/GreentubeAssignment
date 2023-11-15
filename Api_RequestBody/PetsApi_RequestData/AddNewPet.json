@@ -1,0 +1,16 @@
+{
+  "id": 99,
+  "category": {
+    "id": 10,
+    "name": "Labrador"
+  },
+  "name": "Max",
+  "photoUrls": [],
+  "tags": [
+    {
+      "id": 5,
+      "name": "Dog"
+    }
+  ],
+  "status": "available"
+}
